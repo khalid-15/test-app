@@ -1,0 +1,2 @@
+id,name,tax_number,sector,created_at,updated_at
+1,"company 1",10022,Tech,NULL,NULL

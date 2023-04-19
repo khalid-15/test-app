@@ -1,0 +1,2 @@
+id,first_name,last_name,email,is_admin,is_confirmed,company_id,password,remember_token,created_at,updated_at
+1,Khalid,sbai,admin@admin.com,1,0,NULL,$2a$12$MhD7JIFVhG3OkJoBtqZPYeE1ZDf1QmEB6SJY8PDusZ3faMsVsQwz6,NULL,NULL,NULL
