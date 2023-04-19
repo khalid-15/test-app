@@ -1,5 +1,5 @@
 
-Ce projet est développé dans le cadre d'un test de skills le cahier de charge en directory.
+Ce projet est développé dans le cadre d'un test de skills vous trouverez le cahier de charge en directory "Use_Case.docx" .
 Technologie utilisés Laravel 10 et InertiaJS + Vuejs .
 Vite comme Builder .
 Environnement de développement SAIL.
